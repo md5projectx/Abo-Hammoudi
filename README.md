@@ -1,15 +1,14 @@
 # Abu Hamoudi Al-Souri Digital Menu
 
-ملفات الموقع جاهزة للرفع مباشرة إلى GitHub Pages.
+ارفع هذه الملفات السبعة مباشرة إلى المستودع واستبدل الملفات القديمة:
 
-## الملفات
-- `index.html` الصفحة الرئيسية
-- `menu.html` نسخة مباشرة من القائمة
-- `manifest.webmanifest` إعدادات تثبيت الموقع كتطبيق
-- `sw.js` تشغيل القائمة بدون إنترنت بعد أول زيارة
-- `icon-192.png` و `icon-512.png` أيقونات التطبيق
+- README.md
+- icon-192.png
+- icon-512.png
+- index.html
+- manifest.webmanifest
+- menu.html
+- sw.js
 
-## الرفع إلى GitHub
-ارفع جميع الملفات إلى جذر المستودع، وليس داخل مجلد فرعي.
-بعدها افتح:
-Settings → Pages → Deploy from a branch → main / root
+صورة الخلفية مدمجة داخل ملفات HTML، لذلك لا تحتاج إلى رفع ملف صورة منفصل.
+جميع أسماء عناصر القائمة محفوظة كما هي.
