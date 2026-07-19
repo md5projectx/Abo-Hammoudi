@@ -1,16 +1,26 @@
 {
-  "name": "مطعم ومشويات أبو حمودي السوري",
-  "short_name": "أبو حمودي",
-  "description": "القائمة الرقمية لمطعم ومشويات أبو حمودي السوري",
-  "lang": "ar",
-  "dir": "rtl",
-  "start_url": "./menu.html",
+  "name": "Abu Hamoudi Al-Souri Menu",
+  "short_name": "Abu Hamoudi",
+  "description": "القائمة الرقمية لأبو حمودي السوري",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#050505",
+  "background_color": "#082f2d",
   "theme_color": "#090909",
+  "lang": "ar",
+  "dir": "rtl",
   "icons": [
-    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
